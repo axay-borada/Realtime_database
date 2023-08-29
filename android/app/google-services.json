@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "652404913003",
+    "project_id": "myprofile-fd741",
+    "storage_bucket": "myprofile-fd741.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652404913003:android:97d34b63a9b0df81afd22e",
+        "android_client_info": {
+          "package_name": "com.example.getxsignin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCchcob7HKou4aB_6sDadAiTIBIb9QHMJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
